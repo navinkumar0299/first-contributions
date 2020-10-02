@@ -1,5 +1,5 @@
 ﻿ Contributors
- -[Navin Kumar] (https://github.com/TheJackalTR)
+ -[Navin Kumar] (https://github.com/kn999)
 - [Aryen Hemvatan] (https://github.com/TheJackalTR)
 - [Navin Kumar] (https://github.com/navinkumar0299)
 - [Aditya Gupta] (https://github.com/6aditya8)
